@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://gaby10:CatBug100@cluster0-luscg.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "secret"
+  "mongoURI": "mongodb+srv://***********@cluster0-luscg.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "********""
 }
